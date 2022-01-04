@@ -10,6 +10,7 @@
   + Editor: vim
   + Terminal Emulator: Alacritty
   + Shell Prompt: sharship
+  + File Manager: Thunar
   
 
 
